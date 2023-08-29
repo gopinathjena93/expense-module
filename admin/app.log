@@ -1,0 +1,71 @@
+2023-08-18T09:30:14+05:30  error: category is not defined
+2023-08-18T09:30:52+05:30  error: category is not defined
+2023-08-18T09:31:08+05:30 [/expenseDetail] error: category is not defined
+2023-08-18T09:43:32+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T09:44:35+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T09:44:46+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T09:45:12+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T09:46:03+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T09:46:58+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T09:52:14+05:30 [/expenseDetail/4] error: categoryI is not defined
+2023-08-18T10:37:21+05:30 [/expenseDetail] error: Validation error
+2023-08-18T10:39:09+05:30 [/expenseDetail] error: categoryI is not defined
+2023-08-18T10:39:37+05:30 [/expenseDetail] error: Validation error
+2023-08-18T10:45:20+05:30 [/expenseDetail] error: categoryI is not defined
+2023-08-18T10:46:17+05:30 [/expenseDetail] error: categoryI is not defined
+2023-08-18T11:11:04+05:30 [/expenseDetail] error: categoryI is not defined
+2023-08-18T11:36:15+05:30 [/expenseDetail] error: Validation error
+2023-08-18T11:37:14+05:30 [/expenseDetail] error: categoryI is not defined
+2023-08-18T11:38:31+05:30 [/expenseDetail] error: categoryI is not defined
+2023-08-21T15:37:43+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-21T15:43:39+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-21T15:47:13+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-22T07:33:34+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-22T07:37:01+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-22T07:38:11+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-22T07:40:29+05:30 [/auth/register] error: bcrypt is not defined
+2023-08-22T07:41:58+05:30 [/auth/register] error: jwt is not defined
+2023-08-22T07:43:02+05:30 [/auth/register] error: Validation error
+2023-08-22T09:24:16+05:30 [/category] error: invalid token
+2023-08-22T09:24:34+05:30 [/category] error: invalid token
+2023-08-22T09:24:40+05:30 [/category] error: invalid token
+2023-08-22T09:26:16+05:30 [/category] error: invalid token
+2023-08-22T10:08:04+05:30 [/category] error: invalid token
+2023-08-22T10:08:18+05:30 [/category] error: invalid token
+2023-08-22T10:10:03+05:30 [/category] error: invalid token
+2023-08-22T10:10:39+05:30 [/category] error: invalid token
+2023-08-22T10:11:32+05:30 [/category] error: invalid token
+2023-08-22T10:13:17+05:30 [/category] error: invalid token
+2023-08-22T10:14:34+05:30 [/category] error: invalid token
+2023-08-22T10:15:15+05:30 [/category] error: invalid token
+2023-08-22T10:17:16+05:30 [/category] error: invalid token
+2023-08-22T10:20:32+05:30 [/category] error: invalid token
+2023-08-22T10:53:30+05:30 [/pdf/generate] error: puppeteer is not defined
+2023-08-22T11:01:49+05:30 [/pdf/generate] error: Could not find Chromium (rev. 1069273). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npm install`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\gopinath.jena\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+2023-08-22T11:03:06+05:30 [/pdf/generate] error: Cannot read property 'Standard' of undefined
+2023-08-22T11:05:21+05:30 [/pdf/generate] error: Cannot read property 'Helvetica' of undefined
+2023-08-22T11:12:46+05:30 [/pdf/generate] error: fs is not defined
+2023-08-22T11:13:20+05:30 [/pdf/generate] error: ENOENT: no such file or directory, open 'C:\xampp\htdocs\Practice\expense-module\admin\controllers\pdfs\example_1692683000178.pdf'
+2023-08-22T11:16:33+05:30 [/pdf/generate] error: PageSizes is not defined
+2023-08-22T11:55:21+05:30 [/pdf/generate] error: username is not defined
+2023-08-22T12:04:44+05:30 [/pdf/generate] error: ENOENT: no such file or directory, open 'template.ejs'
+2023-08-22T12:30:25+05:30 [/pdf/generate] error: ENOENT: no such file or directory, open 'template.ejs'
+2023-08-22T12:30:58+05:30 [/pdf/generate] error: ENOENT: no such file or directory, open 'template.ejs'
+2023-08-22T12:31:36+05:30 [/pdf/generate] error: pdfDoc.embedHtml is not a function
+2023-08-22T12:43:49+05:30 [/pdf/generate] error: pdfDoc.embedHtml is not a function
+2023-08-22T12:44:36+05:30 [/pdf/generate] error: pdf is not defined
+2023-08-22T12:47:34+05:30 [/pdf/generate] error: Cannot read property 'id' of undefined
+2023-08-22T17:41:13+05:30 [/auth/register] error: mailService.sendMail is not a function
+2023-08-22T17:43:18+05:30 [/auth/register] error: mailService.sendMail is not a function
+2023-08-22T17:43:32+05:30 [/auth/register] error: Validation error
+2023-08-22T17:43:47+05:30 [/auth/register] error: mailService.sendMail is not a function
+2023-08-22T17:45:16+05:30 [/auth/register] error: mailService.sendEmail is not a function
+2023-08-22T17:46:20+05:30 [/auth/register] error: emailService.sendEmail is not a function
+2023-08-23T12:49:10+05:30 [/category] error: jwt expired
+2023-08-28T20:36:43+05:30 [/auth/register] error: Validation error
+2023-08-28T20:36:48+05:30 [/auth/register] error: Validation error
+2023-08-28T20:36:56+05:30 [/auth/register] error: Validation error
+2023-08-28T20:38:26+05:30 [/auth/register] error: Validation error
